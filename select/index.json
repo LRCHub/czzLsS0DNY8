@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "睨めっ娘",
+  "base_artist": "友成空",
+  "createdAt": "2025-12-23T09:26:17.000662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "睨めっ娘",
+      "artist": "友成空",
+      "has_synced": true,
+      "path": "select/01_睨めっ娘_友成空.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "睨めっ娘",
+      "artist": "TOMONARI SORA",
+      "has_synced": true,
+      "path": "select/02_睨めっ娘_TOMONARI_SORA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "睨めっ娘",
+      "artist": "友成空",
+      "has_synced": false,
+      "path": "select/pl_01_睨めっ娘_友成空.txt"
+    }
+  ]
+}
