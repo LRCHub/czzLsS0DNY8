@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "睨めっ娘",
   "base_artist": "友成空",
-  "createdAt": "2025-12-23T09:41:45.133058Z",
+  "createdAt": "2026-02-19T02:59:34.732856Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,14 @@
       "artist": "TOMONARI SORA",
       "has_synced": true,
       "path": "select/02_睨めっ娘_TOMONARI_SORA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "睨めっ娘 - Niramekko",
+      "artist": "Tomonari Sora",
+      "has_synced": true,
+      "path": "select/03_睨めっ娘_-_Niramekko_Tomonari_Sora.lrc"
     },
     {
       "id": "petitlyrics_1",
